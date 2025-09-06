@@ -14,3 +14,15 @@ margin-top: 0px;
    .search-bar{
       border-radius: 10px;
    }
+   .r-ps{
+      padding: 15px;
+      margin: 15px;
+      background-color: aqua;
+      font: 400;
+
+   }
+   .r-ps:hover{
+      background-color: blue;
+      color: aliceblue;
+      font: 800;
+   }
